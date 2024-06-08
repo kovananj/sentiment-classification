@@ -28,6 +28,7 @@ This repository contains a sentiment classification project using BERT (Bidirect
     ```
 
 3. **Follow and run the codes in the jupyter notebook:**
+
 The notebook could also be opened in Google Colab for a faster and easier training.
   
 
@@ -51,11 +52,9 @@ The dataset consists of approximately 4000 tweets labeled as positive (0) or neg
 **Validation and Benchmarking**
 - To validate and benchmark the model's performance, the following methods were used:
 
-**Confusion Matrix and Classification Report: **
-- These metrics were computed to assess the model’s performance in distinguishing between positive and negative sentiments.
+- Confusion Matrix and Classification Report: - These metrics were computed to assess the model’s performance in distinguishing between positive and negative sentiments.
 
-**Comparative Analysis:**
-- The results were compared to human judgment to ensure the model's outputs were reasonable and aligned with expected sentiments.
+- Comparative Analysis: - The results were compared to human judgment to ensure the model's outputs were reasonable and aligned with expected sentiments.
 
 The trained BERT model demonstrated high performance metrics on the validation dataset, achieving near-perfect accuracy and F1 scores. However, qualitative analysis of example predictions revealed some errors, suggesting room for improvement in real-world scenarios. Further validation with a diverse dataset and potential model fine-tuning might be necessary to ensure robust performance.
 
