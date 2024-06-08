@@ -3,15 +3,18 @@
 This repository contains a sentiment classification project using BERT (Bidirectional Encoder Representations from Transformers). The model is trained to classify tweets or short texts as positive or negative sentiments. Sentimental Analysis can be very useful to find out depression and cure it before someone gets into serious trouble.
 
 **Problem Statement**
+
 This project aims to classify the sentiment of short texts, such as tweets, as positive or negative.
 The problem addressed in this project is the automatic classification of sentiments in text, specifically determining whether a piece of text, such as a tweet or a short message, expresses a positive or negative sentiment.
 
 1. **Mental Health Monitoring:**
 
 Analyzing social media posts to identify early signs of depression or anxiety for timely intervention.
+
 2. **Customer Feedback Analysis:**
 
 Gauging customer satisfaction to improve products or services.
+
 3. **Market Research:**
 
 Understanding public sentiment towards brands and products for better decision-making.
