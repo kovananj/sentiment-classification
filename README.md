@@ -28,8 +28,8 @@ This repository contains a sentiment classification project using BERT (Bidirect
     ```
 
 3. **Follow and run the codes in the jupyter notebook:**
-```The notebook could also be opened in Google Colab for a faster and easier training.
-    ```
+The notebook could also be opened in Google Colab for a faster and easier training.
+  
 
 ## Dataset
 
